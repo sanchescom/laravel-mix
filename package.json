@@ -73,7 +73,7 @@
         "lodash": "^4.17.21",
         "md5": "^2.3.0",
         "mini-css-extract-plugin": "^1.6.2",
-        "node-libs-browser": "^2.2.1",
+        "node-libs-browser": "https://github.com/sanchescom/node-libs-browser.git",
         "postcss-load-config": "^3.1.0",
         "postcss-loader": "^6.2.0",
         "semver": "^7.3.5",
